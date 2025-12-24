@@ -33,11 +33,11 @@ It highlights my background, work experience, side projects, and contact details
 
 portfolio/
 ├── index.html
+├── style.css
+├── script.js
 ├── Snapchat-1540699169.jpg
 ├── 5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg
 └── README.md
-
-
 
 
 
