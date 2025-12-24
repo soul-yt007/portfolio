@@ -1,0 +1,67 @@
+body {
+  background: url('5823589-2920x1640-desktop-hd-boy-programmer-wallpaper-image.jpg') no-repeat center center fixed;
+  background-size: cover;
+  background-color: #0a0a0f;
+  color: #e3e3e3;
+  font-family: "Fira Code", monospace;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+header, main, footer {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+  background: rgba(10, 10, 15, 0.85);
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 255, 150, 0.4);
+}
+
+header { text-align: center; }
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid #25e89e;
+  box-shadow: 0 0 8px #25e89e;
+  margin-bottom: 1rem;
+}
+
+nav a {
+  color: #25e89e;
+  margin: 0 1em;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+nav a:hover { color: #ea3ec8; }
+
+.tagline { color: #25e89e; }
+
+.roles span {
+  display: inline-block;
+  margin: 0.3em;
+  padding: 0.3em 0.7em;
+  border: 1px solid #25e89e;
+  border-radius: 6px;
+  box-shadow: 0 0 5px #25e89e;
+}
+
+.work-block {
+  background: rgba(24, 24, 54, 0.9);
+  padding: 1em;
+  margin: 1em 0;
+  border-left: 5px solid #25e89e;
+}
+
+.contact-list {
+  list-style: none;
+  padding: 0;
+}
+
+.footer {
+  text-align: center;
+  color: #888;
+}
